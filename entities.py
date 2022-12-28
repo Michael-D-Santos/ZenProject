@@ -1,4 +1,4 @@
-#INTENDED ON ZEN DIRECTORY
+#INTENDED TO BE RAN IN ZEN DIRECTORY
 import nltk
 import spacy
 import os
