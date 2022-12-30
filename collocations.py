@@ -32,6 +32,6 @@ for file in os.listdir(directory):
         # Add the bigrams and their frequencies to the collocations list
         collocations_list.extend(bigrams)
 
-# Print the collocations list
+# Write the collocations to a text file
 with open("collocations.txt", "w") as f:
   f.write(str(collocations_list))
