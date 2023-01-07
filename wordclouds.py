@@ -1,4 +1,3 @@
-#INTENDED ON ZEN DIRECTORY
 # Import the necessary libraries
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
