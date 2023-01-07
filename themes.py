@@ -1,4 +1,3 @@
-#INTENDED TO BE RAN IN ZEN DIRECTORY
 import os
 import spacy
 
